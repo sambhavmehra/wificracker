@@ -32,7 +32,7 @@ Do not use this tool on networks you don't own or have explicit permission to te
 
 1. Clone this repository:
    ```
-   git clone https://github.com/username/wificracker.git
+   git clone https://github.com/sambhavmehra/wificracker.git
    cd wificracker
    ```
 
