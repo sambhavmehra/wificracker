@@ -32,9 +32,9 @@ def print_banner():
                                          
     """
     
-    print("\033[1;94m" + banner + "\033[0m")  
+    print("\033[1;36m" + banner + "\033[0m")  
     print("\033[1;32m" + "  Original by: Sambhav Mehra" + "\033[0m") 
-    print("\033[1;32m" + "  Follow on Instagram: sambhav@7" + "\033[0m")  
+    print("\033[1;32m" + "  Follow on Instagram: sambhav_7" + "\033[0m")  
     print("\033[1;33m" + "  WiFi Handshake Capture and Password Cracking Tool" + "\033[0m")  
     print("\033[1;31m" + "\n  [!] Use for educational purposes only. Be ethical.\n" + "\033[0m")  
 
